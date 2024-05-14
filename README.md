@@ -33,7 +33,9 @@
 
 <!--Intro end-->
 
-
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuusNijhuis&theme=github_dark" alt="GuusNijhuis's GitHub Stats"/>
+</div>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
