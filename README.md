@@ -29,15 +29,8 @@
 
 - 🌱 I’m currently learning **to create webapplications**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- 📫 Feel free to reach me out **Guusnijhuis2714@gmail.com**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
 <!--Intro end-->
 
 
@@ -85,7 +78,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,docker,figma,github,html,java,js,linux,md,mongodb,mysql,nextjs,react,vscode,cs,dotnet&perline=14" />
   </a>
 </p>
 
