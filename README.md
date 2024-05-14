@@ -34,7 +34,7 @@
 <!--Intro end-->
 
 <div align="center">
-    ![LeetCode Stats](https://leetcard.jacoblin.cool/guusnijhuis2714?theme=dark&font=Mukta%20Vaani&ext=activity)
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://leetcard.jacoblin.cool/guusnijhuis2714?theme=dark&font=Mukta%20Vaani&ext=activity" /> 
 </div>
 <!--- stats & Trophy (start) -->
 <p align="center">
