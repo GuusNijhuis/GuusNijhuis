@@ -34,9 +34,8 @@
 <!--Intro end-->
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuusNijhuis&theme=github_dark" alt="GuusNijhuis's GitHub Stats"/>
+    ![LeetCode Stats](https://leetcard.jacoblin.cool/guusnijhuis2714?theme=dark&font=Mukta%20Vaani&ext=activity)
 </div>
-[![LeetCode Stats](https://leetcard.jacoblin.cool/guusnijhuis2714?theme=dark&font=New%20Tegomin)](https://leetcard.jacoblin.cool/guusnijhuis2714?theme=dark&font=New%20Tegomin)
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
