@@ -17,9 +17,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **ASP.NET, C#, MYSQL, BLAZOR**
+- 🔭 I’m currently working on **a bridge-cutting algorithm**
 
-- 🌱 I’m currently learning **to create webapplications**
+- 🌱 I’m currently learning **how to develop applications with good architecture **
 
 - 📫 Feel free to reach me out **Guusnijhuis2714@gmail.com**
 
